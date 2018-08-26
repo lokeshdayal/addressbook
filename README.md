@@ -1,7 +1,7 @@
 IBM DevOps training... 
 -> just testing.
 
-Release 1.0 on 11th March 2018
+Release 2.0 on August 2018
 
 
 ********************************
